@@ -30,14 +30,12 @@ Graduando em analise em desenvolvimento de software, com experiência em planeja
 </a> <a href="https://rest-assured.io/" target=_blank" rel"noreferrer"> <img alt="REST Assured" height="30" width="30" src="https://rest-assured.io/img/logo-transparent.png">
 </a> <a href="https://appium.io/" target=_blank" rel"noreferrer"> <img alt="Appium" height="30" width="30" src="https://seeklogo.com/images/A/appium-logo-2AB368AF4A-seeklogo.com.png">
 </a> <a href="https://insomnia.rest/download" target=_blank" rel"noreferrer"> <img alt="Insomnia" height="30" width="30" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
-</a> <a href="https://www.postman.com/" target=_blank" rel"noreferrer"> <img alt="Postman" height="30" width="30" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
 </a> <a href="https://git-scm.com/" target=_blank" rel"noreferrer"> <img alt="Git" height="30" width="30" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png">
 </a> <a href="https://about.gitlab.com/" target=_blank" rel"noreferrer"> <img alt="GitLab" height="30" width="30" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png">
 </a> <a href="https://code.visualstudio.com/" target=_blank" rel"noreferrer"> <img alt="Visual Studio Code" height="30" width="30" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png">
 </a> <a href="https://trello.com/" target=_blank" rel"noreferrer"> <img alt="Trello" height="30" width="30" src="https://seeklogo.com/images/T/trello-logo-CE7B690E34-seeklogo.com.png">
 </a> <a href=https://www.atlassian.com/software/jira/work-management" target=_blank" rel"noreferrer"> <img alt="Jira" height="30" width="30" src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png">
 </a> <a href="https://www.mysql.com/" target=_blank" rel"noreferrer"> <img alt="MySQL" height="30" width="30" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png">
-</a> <a href="https://www.elephantsql.com/" target=_blank" rel"noreferrer"> <img alt="ElephantSQL" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
 </a> <a href="https://www.inflectra.com/" target=_blank" rel"noreferrer"> <img alt="SpiraTest" height="30" width="30" src="https://www.inflectra.com/Images/Media-Kit/inflectra-icon-transparent.png">
 </a> <a href="https://www.jenkins.io/" target=_blank" rel"noreferrer"> <img alt="Jenkins" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg">
 </a> <a href="https://azure.microsoft.com/en-us/products/devops/" target=_blank" rel"noreferrer"> <img alt="Azure DevOps" height="30" width="30" src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png">
