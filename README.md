@@ -1,12 +1,5 @@
 ## Olá </a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Sou Yasmim Pereira!
 
-<div>
-  <a href="https://github.com/yasmimprdc?tab=repositories">
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=yasmimprdc&show_icons=true&theme=tokyonight"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimprdc&theme=tokyonight&hide_border=false&layout=compact"/>
-</div>
-<br>
-
 <a href="#">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Yasmim Pereira">
 </a>
