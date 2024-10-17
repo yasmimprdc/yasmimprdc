@@ -12,8 +12,6 @@
 </a>
 
 - 🎓 Graduando em Análise de Desenvolvimento de Sistemas.
-- 📚 Cursando Bacharelado em Engenharia de Software.
-- 💼 QA Intern no [Grupo ICTS](https://www.grupoicts.com.br/)
 - 💭 Acredite na beleza dos seus sonhos.
 - 📍 Morando em Manaus-AM (Brasil).
 
