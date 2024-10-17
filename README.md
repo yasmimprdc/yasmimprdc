@@ -35,7 +35,6 @@ Graduando em analise em desenvolvimento de software, com experiência em planeja
 </a> <a href="https://trello.com/" target=_blank" rel"noreferrer"> <img alt="Trello" height="30" width="30" src="https://seeklogo.com/images/T/trello-logo-CE7B690E34-seeklogo.com.png">
 </a> <a href=https://www.atlassian.com/software/jira/work-management" target=_blank" rel"noreferrer"> <img alt="Jira" height="30" width="30" src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png">
 </a> <a href="https://www.mysql.com/" target=_blank" rel"noreferrer"> <img alt="MySQL" height="30" width="30" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png">
-</a> <a href="https://www.inflectra.com/" target=_blank" rel"noreferrer"> <img alt="SpiraTest" height="30" width="30" src="https://www.inflectra.com/Images/Media-Kit/inflectra-icon-transparent.png">
 </a> <a href="https://www.jenkins.io/" target=_blank" rel"noreferrer"> <img alt="Jenkins" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg">
 </a> <a href="https://azure.microsoft.com/en-us/products/devops/" target=_blank" rel"noreferrer"> <img alt="Azure DevOps" height="30" width="30" src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png">
 </div>
