@@ -27,7 +27,6 @@ Graduando em analise em desenvolvimento de software, com experiência em planeja
 </a> <a href="https://www.java.com/" target=_blank" rel"noreferrer"> <img alt="Java" height="30" width="30" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png">
 </a> <a href="https://cucumber.io/" target=_blank" rel"noreferrer"> <img alt="Cucumber" height="30" width="30" src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png">
 </a> <a href="https://www.selenium.dev/" target=_blank" rel"noreferrer"> <img alt="Selenium WebDriver" height="30" width="30" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
-</a> <a href="https://rest-assured.io/" target=_blank" rel"noreferrer"> <img alt="REST Assured" height="30" width="30" src="https://rest-assured.io/img/logo-transparent.png">
 </a> <a href="https://appium.io/" target=_blank" rel"noreferrer"> <img alt="Appium" height="30" width="30" src="https://seeklogo.com/images/A/appium-logo-2AB368AF4A-seeklogo.com.png">
 </a> <a href="https://insomnia.rest/download" target=_blank" rel"noreferrer"> <img alt="Insomnia" height="30" width="30" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
 </a> <a href="https://git-scm.com/" target=_blank" rel"noreferrer"> <img alt="Git" height="30" width="30" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png">
